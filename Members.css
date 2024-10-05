@@ -1,0 +1,8 @@
+
+.mem-box{
+    display: flex;
+    flex:0 0 200px;
+    
+    flex-direction: column;
+    row-gap: 30px;
+}
