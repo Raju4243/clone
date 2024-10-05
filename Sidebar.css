@@ -1,0 +1,9 @@
+.side ul{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap:50px;
+}
+.side{
+    width:200px;
+}
