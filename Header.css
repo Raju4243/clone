@@ -1,0 +1,17 @@
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap:30%;
+}
+.search input{
+    width:300px;
+    height:40px;
+    border-radius: 15px;
+}
